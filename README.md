@@ -1,3 +1,2 @@
 # Univeristy Repository
 
-Some of my university projects ...
